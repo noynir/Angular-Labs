@@ -1,2 +1,5 @@
 # Angular-Labs
-Angular labs for my 3 day angular course
+Angular labs
+
+1. Hello Angular 
+2. Building Services
