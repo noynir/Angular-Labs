@@ -1,6 +1,6 @@
 # Angular Directives
 
-1. Use the lisy below to render a list of stackoverflow questions.
+1. Use the list below to render a list of stackoverflow questions.
 2. The questions should be rendred with a custom directive.
 3. The directive should render the following properties: owner.display_name,title,link.
 4. When Hovering over the directive element the background color of the element should change.
